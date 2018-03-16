@@ -510,7 +510,6 @@ Note that this works because we know there are only two conditions, `Estimated =
 This construction is necessary if you have more than two conditions to test for.
 
 
-## More R!
 
 With just a little bit of time left, here are some things that you can look into more on your own.
 
